@@ -1,0 +1,1 @@
+variable "pubsubnet_id" {}
